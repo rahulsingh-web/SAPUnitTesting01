@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qj3CNg5pf8ftWECtDVWVkLgJ7r155cwCDKmXxanhT3s=",
+  "Source": "SAPIntegrationUnit02",
+  "BasePath": "_content/SAPIntegrationUnit02",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
