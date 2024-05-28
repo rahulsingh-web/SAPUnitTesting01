@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SAPIntegrationUnit02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e976fe056d513b8352e0b8b703a2a41647ed556d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SAPIntegrationUnit02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SAPIntegrationUnit02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
