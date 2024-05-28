@@ -31,3 +31,4 @@ C:\Users\mpsaini\SAPTESTINGDOTNET\SAPIntegrationUnit02\obj\Debug\net8.0\refint\S
 C:\Users\mpsaini\SAPTESTINGDOTNET\SAPIntegrationUnit02\obj\Debug\net8.0\SAPIntegrationUnit02.pdb
 C:\Users\mpsaini\SAPTESTINGDOTNET\SAPIntegrationUnit02\obj\Debug\net8.0\SAPIntegrationUnit02.genruntimeconfig.cache
 C:\Users\mpsaini\SAPTESTINGDOTNET\SAPIntegrationUnit02\obj\Debug\net8.0\ref\SAPIntegrationUnit02.dll
+C:\Users\mpsaini\SAPTESTINGDOTNET\SAPIntegrationUnit02\obj\Debug\net8.0\SAPIntegrationUnit02.sourcelink.json
